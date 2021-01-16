@@ -1,0 +1,109 @@
+h1 {
+font-size: 3rem;
+color: #220A54;}
+
+h2 { color:  #220A54; }
+
+.titolo1 {padding-top: 50px; }
+
+
+
+.p1 {
+margin: 5% 3% 5% 0;
+color: #220A54;}
+
+.navbar-brand {color: #220A54;}
+
+.navbar { padding: 0 0 4rem; }
+.navbar-brand { font-size: 1.5rem; }
+.nav-item { padding: 5px; color:#220A54;}
+.nav-link { color:#220A54;}
+
+.logolibro { color: #d46f75;}
+ .bottone { border-radius:28px;
+	border:1px solid; color: white;
+  background:linear-gradient(to bottom, #d46f75 5%, #f0a33e 100%);
+  background-color:#d46f75;
+margin: 5% 3% 5% 0;}
+.library  {position: relative;
+  right: 30%; }
+.container-fluid{ padding: 3%  15%; }
+
+
+
+/*Features*/
+.sezione2 { padding: 3%  15%; }
+.feature-title {
+  font-size: 1.5rem;
+
+  font-weight: 800;
+  color:#220A54
+}
+
+#features {
+  position: relative;
+}
+
+.icon1 {
+  color:#d46f75;
+
+  margin-bottom: 1rem;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 2%;
+}
+
+
+
+/*nuova sezione */
+.table1 {text-align: center;
+  color:#220A54;
+  font-weight: 100;
+ margin: 0 10px ;
+ border-top: 0px;
+}
+
+.btn2 { color:#220A54; }
+.containerlibri {
+   color:#220A54;
+ padding: 3%  1%;}
+
+  .imglibri {width: 50%;}
+
+.fa-star { color: yellow;}
+
+
+/*Sales*/
+.sales { background-color: #D1ACDC;}
+.megafono { width: 50%; }
+.red {color: red;}
+.big {color: #220A54; }
+
+
+
+#offerte
+{ padding: 7% 15%;
+  text-align: center;
+}
+
+.specialoffers {text-align: center;}
+.carousel-control-prev {
+  background-color: #999;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+
+.carousel-control-next {
+  background-color: #999;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+
+.logogrande { width: 50px;}
+
+#bottom {background-color: #D1ACDC; }
+.bottomcolor {color: #220A54;}
+.footer  {font-size: 12px;
+color: #220A54;}
+
+.bluelink {color: #220A54;}
